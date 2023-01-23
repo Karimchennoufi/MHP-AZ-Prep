@@ -2,8 +2,8 @@
 
 ### Which of the following customers are eligible to use Azure Government to develop a cloud solution? Choose 2 answers from the options given below.
 
-- [ ] United states government Entity.
-- [ ] A United states government contractor.
+- [x] United states government Entity.
+- [x] A United states government contractor.
 - [ ] A European government Entity.
 - [ ] A European government contractor.
 
