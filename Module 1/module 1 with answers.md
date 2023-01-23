@@ -68,3 +68,72 @@
 - [ ] Contains one or more data centers that are connected by using a high-latency network.
 
 *[⬆ Back to Top](#table-of-contents)*
+
+### [Azure Germany can be used by legal residents of Germany only.]
+
+- [ ] No change is needed.
+- [ ] Only enterprises that are registered in Germeny.
+- [ ] Only enterprises that purchase their azure licenses from a partner based in Germany.
+- [x] Any user or enterprise that requires its data to reside in Germany.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### To implement a hybrid cloud model, a company must first have a private cloud.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A company can extend the computing resources of its internal network by using a hybrid cloud.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### In a public cloud model, only guest users at your company can access the resources in the cloud.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An organization that hosts its infrastructure [in a private cloud] can close its data center.
+
+- [ ] No change is needed.
+- [ ] In a hybrid cloud.
+- [x] In the public cloud.
+- [ ] On a Hyper-V host.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company hosts an accounting application named App1 that is used by all the customers of the company. App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?
+
+- [ ] High availability.
+- [ ] High latency.
+- [x] Elasticity.
+- [ ] Load balancing.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include elasticity in your plan. Does the solution meet the goal?
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include scalability in your plan. Does the solution meet the goal?
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include reliability in your plan. Does the solution meet the goal?
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
